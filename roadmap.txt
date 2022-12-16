@@ -1,0 +1,9 @@
+development cycle.
+
+# backend
+1. Smart contract development
+---- testing ---------------- (out of scope)
+2. compile
+3. deploy and verify
+
+# frontend
